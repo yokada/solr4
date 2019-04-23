@@ -8,6 +8,7 @@ Name the image using tag subcommand.
 
 ```
 $ docker tag solr4 okaday/solr4
+```
 
 `latest` label is default, Otherwise, the following label of versioning if you need it.
 
