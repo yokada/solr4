@@ -1,4 +1,5 @@
 FROM openjdk:8-jre
+AUTHOR="Yoji Okada"
 
 # system update
 RUN apt-get -y update && \
